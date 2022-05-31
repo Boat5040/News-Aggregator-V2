@@ -9,7 +9,7 @@ Please install these dependencies before running this project.
 ## To run the project
 
 1. clone this repository
-
+git clone https://github.com/Boat5040/News-Aggregator-V2.git
 
 2. open terminal in project directory
 cd into the project directory
